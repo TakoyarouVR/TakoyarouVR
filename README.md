@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## 自己紹介 (Self Introduction)
+<img style='max-width: 5%;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg' alt='profile-icon' />
+- Name: Takoyarou, Tako
+- From: Hokkaido, Japan
+- Profession: Hokkaido University
+- Language: Japanese, English
+- Hobbies: Playing Games(especially Street Fighter 6 and Smash Bros Ultimate), Coding
+- Skills: Unity <img style='background-color: white; max-width: 5%;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg' alt='unity-icon' />
 <!--
 **TakoyarouVR/TakoyarouVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
